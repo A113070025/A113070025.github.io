@@ -2,3 +2,8 @@ body {
     background-color: #d5fffb;
 }
 
+:root {
+    --bs-primary: #2659e6;
+    --bs-primary-rgb: 38, 89, 230;
+}
+
